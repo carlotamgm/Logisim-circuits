@@ -14,3 +14,9 @@ A 4-bit carry propagation adder using AND, XOR, and OR gates, according to the d
 
 # 3. Turing Machine with tty
  Basic project developed in Logisim that displays words on a TTY using a Turing Machine circuit.
+Different examples of use will be displayed:
+2.1. This program will erase the screen and prints "HI"
+2.2. This program will print "CARLOTA MONCASI." in capital letters
+2.3. This program will print "CARLOTA MONCASI." in lowercase letters
+3. This program will print "Carlota Moncasi." with the first letter in each word as capital letter
+4. This program will count the number of characters in the sentence and will print it along with the sentence: "CARLOTA MONCASI 16"
