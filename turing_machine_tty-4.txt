@@ -1,0 +1,8 @@
+v2.0 raw
+abff a3d8 f008 6c56 c015 6c4e c008 2d58
+ac7f ac5b 2c8e 6e5f c012 2f5c a3d8 6dce
+c008 f003 b05c 2f5d f00e aeff ae7f f017
+47*0 43 41 52 4c 4f 54 41
+20 4d 4f 4e 43 41 53 49
+2e 0 0 80 20 20 30 30
+1 39 30
